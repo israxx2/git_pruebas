@@ -4,3 +4,7 @@ report.txt
 report.txt
 
 linea 1
+
+linea 2
+linea 2
+linea 2
